@@ -1,6 +1,6 @@
 
 
-#My Stock Price App
+# My Stock Price App
 
 Welcome to the **My Stock Price App**! This application allows you to view the historical closing prices and trading volumes of Google and Microsoft stocks over time.
 

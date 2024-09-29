@@ -1,28 +1,25 @@
+# 📈 My Stock Price App
 
+Welcome to the **My Stock Price App**! 🎉 This application allows you to view the historical closing prices and trading volumes of Google and Microsoft stocks over time.
 
-# My Stock Price App
+## ✨ Features
 
-Welcome to the **My Stock Price App**! This application allows you to view the historical closing prices and trading volumes of Google and Microsoft stocks over time.
+- 📊 **Interactive Charts**: Displaying closing prices and volume.
+- 📅 **Historical Data**: From May 31, 2010, to September 27, 2024.
 
-## Features
+## 🚀 How to Use
 
-- Interactive charts displaying closing prices and volume.
-- Historical data from May 31, 2010, to September 27, 2024.
+To open the app, click [here](https://mystockappp.streamlit.app/) 🔗
 
-## How to Use
+## 🛠 Technologies Used
 
-To open the app, click https://mystockappp.streamlit.app/
+- 🐍 **Python**
+- 🌊 **Streamlit**
+- 📈 **yfinance**
 
-## Technologies Used
-
-- Python
-- Streamlit
-- yfinance
-
-## Installation
+## 📦 Installation
 
 To run the app locally, ensure you have the required packages in your environment. Install them using:
-```
+```bash
 pip install streamlit yfinance
 ```
-
